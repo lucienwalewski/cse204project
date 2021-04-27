@@ -1,0 +1,35 @@
+Changes to Lazar's most recent commit
+
+- Updated descriptions of data, added blockquotes
+- Was not successful but would be nice to add x and y labels to plots
+
+We provide below a brief description of each variable. 
+> **customerID** is a unique identifying code assigned to each customer 
+> **gender** indicates the sex of the custormer - Male or female
+> **SeniorCitizen** indicates whether the customer is a senior citizen (1, 0)
+> **Partner** indicates whether the customer has a partner(Yes, No)
+> **Dependents** indicates whether the customer has dependents (Yes, No)
+> **tenure** is the number of months the customer stayed with the company
+> **PhoneService** indicates whether the customer has a phone service (Yes, No)
+> **MultipleLines** indicates whether the customer has multiple lines (Yes, No, No phone service)
+> **InternetService** indicates a customer's internet service provider (DSL, Fiber optic, No)
+> **OnlineSecurity** indicates whether the customer has online security (Yes, No, No internet service)
+> **OnlineBackup** indicates whether the customer has an online backup (Yes, No, No internet service)
+> **DeviceProtection** indicates whether the customer has device protection (Yes, No, No internet service)
+> **TechSupport** indicates whether the customer has tech support (Yes, No, No internet service)
+> **StreamingTV** indicates whether the customer has a TV streaming subscription (Yes, No, No internet service)
+> **StreamingMovies** indicates whether the customer has a movie steaming subscription (Yes, No, No internet service)
+> **Contract** indicates the contract term of the customer (Month-to-month, One year, Two year)
+> **PaperlessBilling** indicates whether the customer has paperless billing (Yes, No)
+> **PaymentMethod** indicates the customer's  payment method (Electronic check, Mailed check, Bank transfer (automatic), Credit card (automatic))
+> **MonthlyCharges** is the customer's amount of monthly charges
+> **TotalCharges** is the amount charged to the customer totally
+> **Churn** indicates whether the customer churned or not (Yes or No) 
+
+https://github.com/IBM/telco-customer-churn-on-icp4d
+
+
+https://colab.research.google.com/github/michellebonat/Predict_Customer_Churn_ML/blob/master/Predict_Customer_Churn_Case_Study.ipynb#scrollTo=olnOnYIcOnWr
+
+
+
